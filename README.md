@@ -120,3 +120,5 @@ For the latest releases and announcements, follow on Twitter: [@vuejs](https://t
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
+
+urnotivan

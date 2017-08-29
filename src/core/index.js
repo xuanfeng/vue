@@ -17,4 +17,6 @@ Object.defineProperty(Vue.prototype, '$ssrContext', {
 
 Vue.version = '__VERSION__'
 
+
+var test = 'ivan'
 export default Vue
